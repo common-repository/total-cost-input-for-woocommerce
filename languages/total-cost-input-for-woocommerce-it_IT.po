@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: total-cost-input-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-27 14:21+0700\n"
+"PO-Revision-Date: 2022-06-27 15:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#. translators: %s: Total.
+#: templates/global/quantity-input.php:40
+#, php-format
+msgid "Total cost to pay for %s"
+msgstr "Costo totale da pagare per %s"
+
+#: templates/global/quantity-input.php:40
+msgid "Total Cost"
+msgstr "Costo totale"
+
+#. translators: %s: Quantity.
+#: templates/global/quantity-input.php:183
+#, php-format
+msgid "%s quantity"
+msgstr "%s quantità"
+
+#: templates/global/quantity-input.php:183
+msgid "Quantity"
+msgstr "Quantità"
+
+#: total-cost-input-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "Standard"
+
+#: total-cost-input-for-woocommerce.admin.php:56
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: total-cost-input-for-woocommerce.admin.php:74
+#: total-cost-input-for-woocommerce.php:389
+msgid "Total Cost Input Settings"
+msgstr "Impostazioni di input del costo totale"
+
+#: total-cost-input-for-woocommerce.admin.php:79
+msgid "Install and Configure Guide"
+msgstr "Guida all'installazione e alla configurazione"
+
+#: total-cost-input-for-woocommerce.admin.php:80
+#, php-format
+msgid ""
+"Use the official %1$sInstall and Configure%2$s step by step guide to "
+"configure this plugin."
+msgstr ""
+"Usa la guida passo passo ufficiale di %1$sInstalla e configura%2$s per "
+"configurare questo plugin."
+
+#: total-cost-input-for-woocommerce.admin.php:87
+msgid "Awesome Premium Features"
+msgstr "Funzionalità premium fantastiche"
+
+#: total-cost-input-for-woocommerce.admin.php:88
+msgid "Per product total cost input and more."
+msgstr "Input di costo totale per prodotto e altro."
+
+#: total-cost-input-for-woocommerce.admin.php:90
+msgid "Upgrade Now!"
+msgstr "Aggiorna ora!"
+
+#: total-cost-input-for-woocommerce.admin.php:114
+msgid "Show quantity input field?"
+msgstr "Mostra il campo di immissione della quantità?"
+
+#: total-cost-input-for-woocommerce.admin.php:122
+msgid ""
+"If this setting is set, the normal WooCommerce Quantity field will also be "
+"shown on the product page."
+msgstr ""
+"Se questa impostazione è impostata, nella pagina del prodotto verrà "
+"mostrato anche il normale campo Quantità WooCommerce."
+
+#: total-cost-input-for-woocommerce.admin.php:127
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$sAggiorna ora!%2$s per abilitare questa funzione."
+
+#: total-cost-input-for-woocommerce.admin.php:146
+msgid "Need help to configure this plugin?"
+msgstr "Hai bisogno di aiuto per configurare questo plugin?"
+
+#: total-cost-input-for-woocommerce.admin.php:148
+#, php-format
+msgid "Feel free to %1$shire me!%2$s"
+msgstr "Sentiti libero di %1$sassumermi!%2$s"
+
+#: total-cost-input-for-woocommerce.admin.php:156
+msgid "Want more features?"
+msgstr "Vuoi più funzionalità?"
+
+#: total-cost-input-for-woocommerce.admin.php:158
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "Installa il plug-in PRO %1$sversione%2$s!"
+
+#: total-cost-input-for-woocommerce.admin.php:168
+msgid "Save Changes"
+msgstr "Salvare le modifiche"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Are you sure you want to delete all Total Cost Input options?"
+msgstr ""
+"Sei sicuro di voler eliminare tutte le opzioni di immissione del costo "
+"totale?"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Reset"
+msgstr "Ripristina"
+
+#: total-cost-input-for-woocommerce.admin.php:175
+#, php-format
+msgid ""
+"If you like <strong>Total Cost Input for WooCommerce</strong> please leave "
+"us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"Se ti piace <strong>Input dei costi totali per WooCommerce</strong>, "
+"lasciaci una valutazione di %1$s. Un enorme grazie in anticipo!"
+
+#: total-cost-input-for-woocommerce.php:143
+#: total-cost-input-for-woocommerce.php:390
+msgid "Total Cost Input"
+msgstr "Input costo totale"
+
+#: total-cost-input-for-woocommerce.php:144
+msgid "Make product a total cost input product."
+msgstr "Rendi il prodotto un prodotto di input del costo totale."
+
+#: total-cost-input-for-woocommerce.php:409
+msgid "Settings"
+msgstr "Impostazioni"
+
+#~ msgid "Total"
+#~ msgstr "Gesamt"

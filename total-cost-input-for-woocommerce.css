@@ -1,0 +1,23 @@
+/* @see https://www.30secondsofcode.org/css/s/input-with-prefix */
+
+.quantity {
+    display: flex;
+    align-items: center;
+    padding-left: 0.5rem;
+    overflow: hidden;
+}
+
+.quantity .total-cost-input-prefix {
+    font-family: sans-serif;
+}
+
+.quantity input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    padding: 0.5rem;
+}
+
+/* .quantity:focus-within {
+    border-color: #777;
+} */

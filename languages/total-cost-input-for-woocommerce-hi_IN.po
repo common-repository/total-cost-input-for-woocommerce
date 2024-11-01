@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: total-cost-input-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-27 14:20+0700\n"
+"PO-Revision-Date: 2022-06-27 20:21+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: templates/global/quantity-input.php:40
+#, php-format
+msgid "Total cost to pay for %s"
+msgstr "%s . के लिए भुगतान करने की कुल लागत"
+
+#: templates/global/quantity-input.php:40
+msgid "Total Cost"
+msgstr "कुल लागत"
+
+#: templates/global/quantity-input.php:183
+#, php-format
+msgid "%s quantity"
+msgstr "%s मात्रा"
+
+#: templates/global/quantity-input.php:183
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: total-cost-input-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "मानक"
+
+#: total-cost-input-for-woocommerce.admin.php:56
+msgid "Settings saved."
+msgstr "सेटिंग्स को सहेजा गया।"
+
+#: total-cost-input-for-woocommerce.admin.php:74
+#: total-cost-input-for-woocommerce.php:389
+msgid "Total Cost Input Settings"
+msgstr "कुल लागत इनपुट सेटिंग्स"
+
+#: total-cost-input-for-woocommerce.admin.php:79
+msgid "Install and Configure Guide"
+msgstr "गाइड स्थापित करें और कॉन्फ़िगर करें"
+
+#: total-cost-input-for-woocommerce.admin.php:80
+#, php-format
+msgid ""
+"Use the official %1$sInstall and Configure%2$s step by step guide to "
+"configure this plugin."
+msgstr ""
+"आधिकारिक %1$sका उपयोग करें इस प्लगइन को कॉन्फ़िगर करने के लिए चरण दर चरण मार्गदर्शिका"
+"%2$s इंस्टॉल और कॉन्फ़िगर करें।"
+
+#: total-cost-input-for-woocommerce.admin.php:87
+msgid "Awesome Premium Features"
+msgstr "बहुत बढ़िया प्रीमियम सुविधाएँ"
+
+#: total-cost-input-for-woocommerce.admin.php:88
+msgid "Per product total cost input and more."
+msgstr "प्रति उत्पाद कुल लागत इनपुट और बहुत कुछ।"
+
+#: total-cost-input-for-woocommerce.admin.php:90
+msgid "Upgrade Now!"
+msgstr "अभी अपग्रेड करें!"
+
+#: total-cost-input-for-woocommerce.admin.php:114
+msgid "Show quantity input field?"
+msgstr "मात्रा इनपुट फ़ील्ड दिखाएं?"
+
+#: total-cost-input-for-woocommerce.admin.php:122
+msgid ""
+"If this setting is set, the normal WooCommerce Quantity field will also be "
+"shown on the product page."
+msgstr ""
+"यदि यह सेटिंग सेट है, तो उत्पाद पृष्ठ पर सामान्य WooCommerce मात्रा फ़ील्ड भी दिखाई "
+"जाएगी।"
+
+#: total-cost-input-for-woocommerce.admin.php:127
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$sअभी अपग्रेड करें!%2$s इस सुविधा को सक्षम करने के लिए।"
+
+#: total-cost-input-for-woocommerce.admin.php:146
+msgid "Need help to configure this plugin?"
+msgstr "इस प्लगइन को कॉन्फ़िगर करने में मदद चाहिए?"
+
+#: total-cost-input-for-woocommerce.admin.php:148
+#, php-format
+msgid "Feel free to %1$shire me!%2$s"
+msgstr "बेझिझक %1$sमुझे नियुक्त करें!%2$s"
+
+#: total-cost-input-for-woocommerce.admin.php:156
+msgid "Want more features?"
+msgstr "अधिक सुविधाएँ चाहते हैं?"
+
+#: total-cost-input-for-woocommerce.admin.php:158
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "%1$sपेशेवर प्लग इन संस्करण%2$s स्थापित करें!"
+
+#: total-cost-input-for-woocommerce.admin.php:168
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Are you sure you want to delete all Total Cost Input options?"
+msgstr "क्या आप वाकई कुल लागत इनपुट विकल्पों को हटाना चाहते हैं?"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Reset"
+msgstr "रीसेट"
+
+#: total-cost-input-for-woocommerce.admin.php:175
+#, php-format
+msgid ""
+"If you like <strong>Total Cost Input for WooCommerce</strong> please leave "
+"us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"अगर आपको <strong>WooCommerce के लिए कुल लागत इनपुट</strong> पसंद है, तो कृपया हमें "
+"%1$s रेटिंग दें। अग्रिम में एक बड़ा धन्यवाद!"
+
+#: total-cost-input-for-woocommerce.php:143
+#: total-cost-input-for-woocommerce.php:390
+msgid "Total Cost Input"
+msgstr "कुल लागत इनपुट"
+
+#: total-cost-input-for-woocommerce.php:144
+msgid "Make product a total cost input product."
+msgstr "उत्पाद को कुल लागत इनपुट उत्पाद बनाएं।"
+
+#: total-cost-input-for-woocommerce.php:409
+msgid "Settings"
+msgstr "समायोजन"
+
+#~ msgid "Total"
+#~ msgstr "Сумма"

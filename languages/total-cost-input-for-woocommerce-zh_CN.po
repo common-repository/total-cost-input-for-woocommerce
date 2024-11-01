@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: total-cost-input-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-27 14:22+0700\n"
+"PO-Revision-Date: 2022-06-27 14:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: templates/global/quantity-input.php:40
+#, php-format
+msgid "Total cost to pay for %s"
+msgstr "为 %s 支付的总费用"
+
+#: templates/global/quantity-input.php:40
+msgid "Total Cost"
+msgstr "总消耗"
+
+#: templates/global/quantity-input.php:183
+#, php-format
+msgid "%s quantity"
+msgstr "%s 数量"
+
+#: templates/global/quantity-input.php:183
+msgid "Quantity"
+msgstr "数量"
+
+#: total-cost-input-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "标准"
+
+#: total-cost-input-for-woocommerce.admin.php:56
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: total-cost-input-for-woocommerce.admin.php:74
+#: total-cost-input-for-woocommerce.php:389
+msgid "Total Cost Input Settings"
+msgstr "总成本输入设置"
+
+#: total-cost-input-for-woocommerce.admin.php:79
+msgid "Install and Configure Guide"
+msgstr "安装和配置指南"
+
+#: total-cost-input-for-woocommerce.admin.php:80
+#, php-format
+msgid ""
+"Use the official %1$sInstall and Configure%2$s step by step guide to "
+"configure this plugin."
+msgstr "使用官方的 %1$s安装和配置%2$s 分步指南来配置这个插件。"
+
+#: total-cost-input-for-woocommerce.admin.php:87
+msgid "Awesome Premium Features"
+msgstr "很棒的高级功能"
+
+#: total-cost-input-for-woocommerce.admin.php:88
+msgid "Per product total cost input and more."
+msgstr "每个产品的总成本投入等等。"
+
+#: total-cost-input-for-woocommerce.admin.php:90
+msgid "Upgrade Now!"
+msgstr "现在升级！"
+
+#: total-cost-input-for-woocommerce.admin.php:114
+msgid "Show quantity input field?"
+msgstr "显示数量输入字段？"
+
+#: total-cost-input-for-woocommerce.admin.php:122
+msgid ""
+"If this setting is set, the normal WooCommerce Quantity field will also be "
+"shown on the product page."
+msgstr "如果设置了此设置，正常的 WooCommerce 数量字段也将显示在产品页面上。"
+
+#: total-cost-input-for-woocommerce.admin.php:127
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$s立即升级！%2$s 启用此功能。"
+
+#: total-cost-input-for-woocommerce.admin.php:146
+msgid "Need help to configure this plugin?"
+msgstr "需要帮助来配置这个插件？"
+
+#: total-cost-input-for-woocommerce.admin.php:148
+#, php-format
+msgid "Feel free to %1$shire me!%2$s"
+msgstr "请随意 %1$s雇用我！%2$s"
+
+#: total-cost-input-for-woocommerce.admin.php:156
+msgid "Want more features?"
+msgstr "想要更多功能？"
+
+#: total-cost-input-for-woocommerce.admin.php:158
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "安装 %1$sPRO 插件版本%2$s！"
+
+#: total-cost-input-for-woocommerce.admin.php:168
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Are you sure you want to delete all Total Cost Input options?"
+msgstr "您确定要删除所有总成本输入选项吗？"
+
+#: total-cost-input-for-woocommerce.admin.php:169
+msgid "Reset"
+msgstr "重置"
+
+#: total-cost-input-for-woocommerce.admin.php:175
+#, php-format
+msgid ""
+"If you like <strong>Total Cost Input for WooCommerce</strong> please leave "
+"us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"如果您喜欢 <strong>WooCommerce 的总成本输入</strong>，请给我们评分 %1$s。 提"
+"前非常感谢！"
+
+#: total-cost-input-for-woocommerce.php:143
+#: total-cost-input-for-woocommerce.php:390
+msgid "Total Cost Input"
+msgstr "总成本投入"
+
+#: total-cost-input-for-woocommerce.php:144
+msgid "Make product a total cost input product."
+msgstr "使产品成为总成本投入产品。"
+
+#: total-cost-input-for-woocommerce.php:409
+msgid "Settings"
+msgstr "设置"
+
+#~ msgid "Total"
+#~ msgstr "Coste total"
